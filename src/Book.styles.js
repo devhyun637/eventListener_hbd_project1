@@ -34,7 +34,7 @@ export const FrontPage = styled.div`
   transform-origin: left;
   transition: transform 0.5s;
   backface-visibility: hidden;
-  border-left: 3px solid powderblue;
+  border-left: 3px solid #b39ddb;
 
   z-index: 1;
   ${({ flipped }) =>

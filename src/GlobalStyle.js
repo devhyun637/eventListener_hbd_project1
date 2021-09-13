@@ -19,6 +19,6 @@ export const reset = css`
     height: 100vh;
 
     font-family: UhBeemysen, sans-serif;
-    background-color: powderblue;
+    background-color: #b39ddb;
   }
 `;
